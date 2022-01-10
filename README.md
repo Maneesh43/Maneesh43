@@ -12,9 +12,9 @@ Hello, I'm **Maneesh Thouti**
 
 ## Would like to know more about what i do ?
 
-![Linkedin](https://github.com/Maneesh43/Maneesh43/blob/main/assets/LI-In-Bug.png) [Linkedin](https://linkedin.com/in/maneesh43)
+Find me here 
 
-![Twitter](https://github.com/Maneesh43/Maneesh43/blob/main/assets/Twitter%20social%20icons%20-%20square%20-%20blue.png) [Twitter](https://twitter.com/maneesh_thouti)
+[Linkedin](https://linkedin.com/in/maneesh43)
 
 
 <!---
