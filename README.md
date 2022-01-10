@@ -8,10 +8,13 @@ Hello, I'm **Maneesh Thouti**
    
 2. [Cooktopia](https://github.com/falguni-lakdawala/cooktopia) Receipe Search app built using __ReactJS__, __JavaScript__, __Express JS__
  
- >Know more here [Promotional website](http://www.cooktopia.ca)
+  > Know more here [Promotional website](http://www.cooktopia.ca)
 
 ## Would like to know more about what i do ?
 
+![Linkedin](https://github.com/Maneesh43/Maneesh43/blob/main/assets/LI-In-Bug.png) [Linkedin](https://linkedin.com/in/maneesh43)
+
+![Twitter](https://github.com/Maneesh43/Maneesh43/blob/main/assets/Twitter%20social%20icons%20-%20square%20-%20blue.png) [Twitter](https://twitter.com/maneesh_thouti)
 
 
 <!---
