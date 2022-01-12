@@ -1,5 +1,5 @@
 Hello, I'm **Maneesh Thouti**
-## I build Android apps,Full Stack web applications.
+## I build Android and Full Stack web applications.
 
 ### My Portfolio
 1. [Stepaw](https://github.com/ButterfliesLangara/Stepaw) Petwalk management app built using __Kotlin__, __Java__, __Arduino BLE__,__Express JS__ 
